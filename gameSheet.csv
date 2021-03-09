@@ -1,0 +1,11 @@
+game,color,shape,sizeinmm
+pandemic,red,cube,8
+pandemic,yellow,cube,8
+pandemic,blue,cube,8
+pandemic,black,cube,8
+pandemic:Iberia,red,cube,8
+pandemic:Iberia,yellow,cube,8
+pandemic:Iberia,blue,cube,8
+pandemic:Iberia,black,cube,8
+example game,red,disk,8
+exGame,red,stick,8
